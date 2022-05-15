@@ -28,4 +28,5 @@ This application was created with a purpouse to help stay organized. Enter your 
 Email me for contact/questions: [Here!](leah.fox7@gmail.com)
 
 Connect with me on GitHub: [Here!](https://github.com/LF56)
+<br>
 Connect with me on LinkedIn: [Here!](https://www.linkedin.com/in/leah-fox-37963b1a2/)
